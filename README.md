@@ -4,9 +4,10 @@ Toplama, çıkarma, çarpma, bölme ve üs alma işlemlerini yapabilir.
 
 ## Kullanım
 1. Programı çalıştırın:
+   ```bash
    python main.py
-2. Menüden yapmak istediğiniz işlemi seçin.
-3. İki sayı girin ve sonucu görün.
+3. Menüden yapmak istediğiniz işlemi seçin.
+4. İki sayı girin ve sonucu görün.
 
 ## Özellikler
 1. Hatalı girişlere karşı uyarı verir.
